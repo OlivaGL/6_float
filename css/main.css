@@ -1,0 +1,20 @@
+div>div {
+	height: 50px;
+	width: 300px;
+	background-color: orange;
+	border: red 2px solid;
+	margin: 8px;
+	font-family: verdana;
+	font-size: 12;
+}
+.contenedor {
+	border: red 3px dotted;
+	background-color: yellow;
+}
+.clearfix {
+	overflow: auto;
+	zoom: 1;
+}
+.vecinos {
+	float: left;
+}
